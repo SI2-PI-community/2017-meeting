@@ -33,7 +33,7 @@ title: Attendees
 | Alex Travesset | Iowa State University | 1606336 | CDS&E: Design Principles for Ordering Nanoparticles into Super-crystals | CMMT |
 | Yung-Hsiang Lu | Purdue University | 1535108 | Analyze Visual Data from Worldwide Network Cameras | SI2 |
 | Peter Elmer | Princeton University | 1558216 | Collaborative Research: S2I2: Cncp: Conceptualization of an S2I2 Institute for High Energy Physics | SI2 |
-| Michael D Sokoloff | University of Cincinnati | 1450319 | "  | Collaborative Research: SI2-SSI: Data-Intensive Analysis for High Energy Physics (DIANA/HEP)" | SI2 |
+| Michael D Sokoloff | University of Cincinnati | 1450319 | Collaborative Research: SI2-SSI: Data-Intensive Analysis for High Energy Physics (DIANA/HEP) | SI2 |
 | David Tarboton | Utah State University | 1148453, 1148090 | An interactive software infrastructure for sustaining collaborative community innovation in the hydrologic sciences | SI2 |
 | Shantenu Jha | Rutgers | ACI 1440677 and ACI 1265788 | RADICAL-Cybertools and ExTASY | SI2 |
 | Prof. Richard C Brower | Boston University | 1606994 | 2016 Software Infrastructure for Sustained Innovation (SI2) PI Workshop | PI Workshop |
@@ -137,26 +137,26 @@ title: Attendees
 | Lorena A. Barba | George Washington University | N/A | N/A | CAREER from ACI 2012 |
 | A. Selcuk Uluagac | Florida International University | 1339781 | SI2:SSE: A Sustainable Wireless Sensor Development Framework For Science and Engineering Researchers | SI2 |
 | Alison Marsden | Stanford University | 1562450 | Collaborative Research: SI2-SSI: A Sustainable Open Source Software Pipeline for Patient Specific Blood Flow Simulation and Analysis | SI2 |
-| Gene Cooperman | Northeastern University | NSF  | "SI2-SSE: Enhancement and Support of DMTCP for Adaptive, Extensible Checkpoint-Restart"', NSF ACI-1440788) | SI2 |
+| Gene Cooperman | Northeastern University | NSF ACI-1440788 | SI2-SSE: Enhancement and Support of DMTCP for Adaptive, Extensible Checkpoint-Restart | SI2 |
 | Ed Valeyev | Virginia Tech | 1550456 | Collaborative Research: SI2-SSI: Software Framework for Electronic Structure of Molecules and Solids | SI2 |
 | Abani K Patra | University at Buffalo | 1339765 | SI2-SSI:Collaborative Research: Building Sustainable Tools and Collaboration for Volcanic and Related Hazards | SI2 |
 | Mark Shephard | Rensselaer Polytechnic Institute | 1533581 | SI2-SSE: Fast Dynamic Load Balancing Tools for Extreme Scale Systems | SI2 |
 | Xiyin Wang | University of Georgia | 1339727 | SI2-SSE: Software Infrastructure for Revealing Gene and Genome Evolution, Anchored by Enhancement of Multiple Genome Alignment Software MCSCAN | SI2 |
 | Frank LÃ¶ffler | Louisiana State University | 1550551 | Collaborative Research: Einstein Toolkit Community Integration and Data Exploration | SI2 |
-| MercÃ¨ Crosas | Harvard University | 1448123 | EAGER: Citation++: Data Citation, Provenance, and Documentation  | EAGER |
-| Michael | Hucka | 1533792 | Cataloging software using a semantic-based approach for software discovery and characterization | EAGER |
+| Mercè Crosas | Harvard University | 1448123 | EAGER: Citation++: Data Citation, Provenance, and Documentation  | EAGER |
+| Michael Hucka | California Institute of Technology | 1533792 | Cataloging software using a semantic-based approach for software discovery and characterization | EAGER |
 | Upulee Kanewala | Montana State University | 1656877 | Toward Sustainable Software for Science - Implementing and Assessing Systematic Testing Approaches for Scientific Software | SI2, SHF |
 | Marco Bernardi | California Institute of Technology | 1642443 | SI2-SSE: PERTURBO: A Software for Accelerated Discovery of Microscopic Electronic Processes in Materials | SI2 |
 | Tracy Teal | Data Carpentry | NA | NA | speaker |
-| Chad Hanna | Penn State | ACI-1642391 | "Hearing the signal through the static: Real-time noise reduction in the hunt for binary black holes and other gravitational wave transients | " | SSE |
+| Chad Hanna | Penn State | ACI-1642391 | Hearing the signal through the static: Real-time noise reduction in the hunt for binary black holes and other gravitational wave transients | SSE |
 | Jed Brown | CU Boulder | Speaker | Community building through software design | SI2 |
 | Haesun Park | Georgia Institute of Technology | ACI-1642410 | Collaborative Research: High Performance Low Rank Approximation for Scalable Data Analytics | SI2 |
 | P. Bryan Heidorn | University of Arizona | 1642446 | SI2-SSE: Visualizing Astronomy Repository Data using WorldWide Telescope Software Systems | SI2 |
 | Joannes Westerink | Notre Dame | ACI-1339738 | A Scalable Toolkit for an Open Community Supporting Near Real-time High Resolution Coastal Storm Modeling | SI2 |
 | William Miller | NSF CISE Office of Advanced Cyberinfrastructure | N/A | N/A | N/A |
 | James A. Shackleford | Drexel University | 1642380 | High-Performance Workflow Primitives for Image Registration and Segmentation | SI2 |
-| Andrew Miner | Iowa State University | 1642397 | SI2 - SSE: A Next-Generation Decision Diagram Library | SI2 |
-| Geof Sawaya | University of Utah, School of Computing | 000-00 | Mitigation of Computational Variability | SI2 |
+| Andrew Miner | Iowa State University | 1642397 | SI2-SSE: A Next-Generation Decision Diagram Library | SI2 |
+| Geof Sawaya | University of Utah, School of Computing | - | Mitigation of Computational Variability | SI2 |
 | Eric Klavins | University of Washington | 1317653 | Molecular Programming Architectures, Abstractions, Algorithms, and Applications | Expeditions (supplement) |
 | Jakub Kurzak | University of Tennessee | 1642441 | BONSAI: An Open Software Infrastructure for Parallel Autotuning of Computational Kernels | SI2 |
 | Anton Van der Ven | University of California Santa Barbara | 1642433 | SI2-SSE: Automated statistical mechanics for the first-principles prediction of finite temperature properties in hybrid organic-inorganic crystals | SI2 |

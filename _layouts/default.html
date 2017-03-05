@@ -15,10 +15,10 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="links">
-          <a href="{{ relative_url }}" class="btn">Home</a>
+          <a href="{{ '/' | relative_url }}" class="btn">Home</a>
           <a href="{{ '/attendees' | relative_url }}" class="btn">Attendees</a>
-          <a href="/agenda" class="btn">Agenda</a>
-          <a href="/report" class="btn">Report</a>
+          <a href="{{ '/agenda' | relative_url }}" class="btn">Agenda</a>
+          <a href="{{ '/report' | relative_url }}" class="btn">Report</a>
         </section>
       </div>
     </header>

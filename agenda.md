@@ -12,7 +12,7 @@ title: Agenda
 | 8:15 AM 21 Feb | [Irene Qualters (NSF Division Director, ACI)](https://doi.org/10.6084/m9.figshare.4676191) |
 | 8:30 AM 21 Feb | [Rajiv Ramnath (NSF Program Director, SI2)](https://doi.org/10.6084/m9.figshare.4676173) |
 | 8:40 AM 21 Feb | Prompt and activity (KnowInnovation) |
-| 9:25 AM 21 Feb | Invited talk: Lorena Barba |
+| 9:25 AM 21 Feb | [Invited talk: Lorena Barba](](#lorena-barba)) |
 | 10:00 AM 21 Feb | Invited talk: Jed Brown |
 | 10:35 AM 21 Feb | Invited talk: Eric Klavins |
 | 11:45 AM 21 Feb | Breakout discussions |

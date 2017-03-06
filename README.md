@@ -1,4 +1,4 @@
-# 2017 NSF SI2 PI meeting
+# 2017 NSF SI2 PI Workshop
 
 The 2017 NSF Software Infrastructure for Sustained Innovation (SI^2) Principal Investigator (PI) workshop was held 21--22 February 2017 at the Westin Arlington Gateway in Arlington, VA.
 
@@ -9,6 +9,10 @@ The workshop had five strategic objectives that align with the broader SI2 progr
 - Stimulate thinking on new ways of achieving software sustainability.
 - Gather the shared experiences in an online web portal.
 Achieving these five objectives will expand the collective domain of knowledge on software infrastructure, enhance the capability for sustained innovation within software communities, and contribute to the broader CIF21 vision.
+
+## Workshop output
+
+All talks and posters presented at the workshop are available at the associated Figshare meeting portal: <https://nsf-si2-pi.figshare.com/>.
 
 ## Organizers
 
@@ -37,3 +41,7 @@ The organizers were current SI2 program PIs, who volunteered prior to or during 
 For information about the meeting, contact the meeting chairs:
  - Ganesh Gopalakrishnan <ganesh@cs.utah.edu>
  - Kyle Niemeyer <kyle.niemeyer@oregonstate.edu>
+
+### Acknowledgements
+
+We thank [Figshare](https://figshare.com/) for providing the meeting portal.

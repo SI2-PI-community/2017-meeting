@@ -18,7 +18,7 @@ title: Agenda
 | 11:45 AM 21 Feb | Breakout discussions |
 | 12:35 PM 21 Feb | Breakout group present backs |
 | 1:00 PM 21 Feb  | Lunch |
-| 1:30 PM 21 Feb  | Invited talk: Tim Menzies |
+| 1:30 PM 21 Feb  | [Invited talk: Tim Menzies](#tim-menzies) |
 | 2:15 PM 21 Feb  | Audience proposed breakout discussions |
 | 3:15 PM 21 Feb  | Present backs |
 | 3:30 PM 21 Feb  | [Institute report: T. Daniel Crawford](https://doi.org/10.6084/m9.figshare.4684231) |
@@ -27,7 +27,7 @@ title: Agenda
 | | |
 | 7:00 AM 22 Feb  | Breakfast |
 | 8:00 AM 22 Feb  | [Steve Konsek (NSF Program Director, I-Corps)](https://doi.org/10.6084/m9.figshare.4681090) |
-| 8:10 AM 22 Feb  | Invited Talk: Tracey Teal |
+| 8:10 AM 22 Feb  | [Invited Talk: Tracy Teal](#tracy-teal) |
 | 9:20 AM 22 Feb  | Breakout discussions |
 | 10:45 AM 22 Feb | Present backs |
 | 11:45 AM 22 Feb | Complete meeting survey |
